@@ -9,6 +9,7 @@ This project builds a machine learning model to predict whether cancer is presen
 
 It can help in early cancer detection, supporting healthcare professionals in diagnosis and treatment planning.
 
+
 Approach & Evaluation:
 
 •	Model: K-Nearest Neighbors (KNN)
@@ -22,7 +23,10 @@ Approach & Evaluation:
 •	Cross-Validation Score: 93.5%
 
 
+
 Metrics Used: Accuracy, Confusion Matrix, Cross-Validation, classification_report
+
+
 
 Dataset & Tools Used:
 
