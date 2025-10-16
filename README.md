@@ -1,6 +1,6 @@
 # Cancer-Prediction-using-gene-expression
 
-Problem Statement:
+### Problem Statement:
 This project builds a machine learning model to predict whether cancer is present in a patient based on gene expression levels (Gene One and Gene Two). The model classifies patients as:
 
 •	0 → No Cancer Present
@@ -10,7 +10,7 @@ This project builds a machine learning model to predict whether cancer is presen
 It can help in early cancer detection, supporting healthcare professionals in diagnosis and treatment planning.
 
 
-Approach & Evaluation:
+### Approach & Evaluation:
 
 •	Model: K-Nearest Neighbors (KNN)
 
@@ -24,12 +24,13 @@ Approach & Evaluation:
 
 
 
-Metrics Used: Accuracy, Confusion Matrix, Cross-Validation, classification_report
+### Metrics Used: Accuracy, Confusion Matrix, Cross-Validation, classification_report
 
 
 
-Dataset & Tools Used:
+### Dataset & Tools Used:
 
 •	Dataset: gene_expression.csv with columns Gene One, Gene Two, Cancer Present
+
 •	Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
